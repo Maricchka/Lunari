@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(to bottom, rgb(255, 255, 255), rgb(255, 111, 135), rgb(255, 255, 255));
+}
+
+header {
+    background-color: rgb(236, 60, 89);
+}
+
+header {
+    color: rgb(236, 60, 89)
+}
+
+footer {
+    background-color: rgb(236, 60, 89);
+}
+
+footer img {
+    border-radius: 5px;
+}  
+
+footer p {
+    font-family: Roboto;
+}
